@@ -23,5 +23,3 @@ Hold Mode Key = ALT
 ![Screenshot](https://raw.githubusercontent.com/MrRubby/Valorant_ColorBase_TriggerBot/master/Screenshot/loader.png)
 
 ![Screenshot](https://raw.githubusercontent.com/MrRubby/Valorant_ColorBase_TriggerBot/master/Screenshot/menu.png)
-
-
